@@ -21,7 +21,9 @@
     "@angular/platform-browser": "^4.2.4",
     "@angular/platform-browser-dynamic": "^4.2.4",
     "@angular/router": "^4.2.4",
+    "ccxt": "^1.10.1085",
     "core-js": "^2.4.1",
+    "ngx-localforage": "^0.1.35",
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.14"
   },
